@@ -1,0 +1,11 @@
+node_modules/
+dist/
+data/
+.env
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+coverage/
+test-results/
+usage.csv
+*.backup-*
